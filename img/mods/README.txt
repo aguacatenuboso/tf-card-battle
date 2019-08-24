@@ -1,0 +1,1 @@
+This folder is for modding the game. Currently the only mods that are supported are player and enemy avatars, but more support may be added in the future. 
